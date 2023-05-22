@@ -1,0 +1,15 @@
+D:\VisualStudio\Projects\EmailSender\bin\Debug\net6.0\EmailSender.exe
+D:\VisualStudio\Projects\EmailSender\bin\Debug\net6.0\EmailSender.deps.json
+D:\VisualStudio\Projects\EmailSender\bin\Debug\net6.0\EmailSender.runtimeconfig.json
+D:\VisualStudio\Projects\EmailSender\bin\Debug\net6.0\EmailSender.dll
+D:\VisualStudio\Projects\EmailSender\bin\Debug\net6.0\EmailSender.pdb
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.AssemblyInfoInputs.cache
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.AssemblyInfo.cs
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.dll
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\refint\EmailSender.dll
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.pdb
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\EmailSender.genruntimeconfig.cache
+D:\VisualStudio\Projects\EmailSender\obj\Debug\net6.0\ref\EmailSender.dll
