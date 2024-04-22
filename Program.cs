@@ -24,7 +24,7 @@ namespace SmtpClientExample
                 message.Body = "Body of the email";
 
                 // Optional: Attach a file
-                Attachment attachment = new Attachment("path_to_attachment_file");
+                Attachment attachment = new Attachment("path_to_attachment_file"); //test
                 message.Attachments.Add(attachment);
 
                 client.Send(message);
